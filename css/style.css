@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color: dimgrey;
+}
+
+img {
+    max-width: 39em;
+    float: left;
+    padding: 1em;
+}
+
+h2,
+h3 {
+    color: darkred;
+    padding-left: 1em;
+    padding-top: 1em;
+    text-transform: uppercase;
+}
+
+h4 {
+    color: ghostwhite;
+    padding-left: 1em;
+    text-transform: uppercase;
+    padding-top: 30em;
+    
+}
+
+p {
+    font-family: sans-serif;
+    text-align: left;
+    color: ghostwhite;
+    min-width: 30em;
+    max-width: 40em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+p.direct {
+    text-transform: uppercase;
+    color: ghostwhite;
+}
+
+ul {
+    list-style: disc;
+    justify-content: space-evenly;
+    padding-top: 0,5em;
+    padding-bottom: 2em;
+    color: ghostwhite;
+    border-bottom: solid ghostwhite;
+}
+
+.HiddenInfo {
+	display: none;
+}
+
+
